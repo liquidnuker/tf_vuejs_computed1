@@ -21,4 +21,4 @@ var vm = new Vue({
 });
 
 vm.capitalize();
-vm.double();
+// vm.double();
